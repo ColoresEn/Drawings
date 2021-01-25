@@ -1,0 +1,4 @@
+{
+   "URI": "mongodb+srv://qepweb:vitorino21@cluster0-deffl.mongodb.net/Qepweb?authSource=admin&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true",
+   "jwtSecret": "mysecrettext"
+}

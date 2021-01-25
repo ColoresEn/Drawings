@@ -1,4 +1,0 @@
-Listening on port \\.\pipe\9cd6f486-a65a-4686-80fc-69bbf93afe73
-MongoDB connected.
-[0mGET /api/posts [36m304[0m 626.895 ms - -[0m
-GET /api/posts 304 - - 626.895 ms

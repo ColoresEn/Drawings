@@ -1,4 +1,0 @@
-Listening on port \\.\pipe\39bd27f9-d036-49c1-b227-077ac4bcd546
-[0mGET /admin/img/showbyCategory/5cfad4ddeddbab35b09453a5 [33m404[0m 0.886 ms - 188[0m
-GET /admin/img/showbyCategory/5cfad4ddeddbab35b09453a5 404 188 - 0.886 ms
-MongoDB connected.

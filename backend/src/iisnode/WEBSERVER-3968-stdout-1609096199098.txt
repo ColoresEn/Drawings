@@ -1,2 +1,0 @@
-Listening on port \\.\pipe\b6c2903c-a728-44cb-a11e-3dd6d014e0f3
-querySrv ESERVFAIL _mongodb._tcp.cluster0-deffl.mongodb.net

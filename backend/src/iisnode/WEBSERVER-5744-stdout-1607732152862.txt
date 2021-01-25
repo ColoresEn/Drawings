@@ -1,2 +1,0 @@
-Listening on port \\.\pipe\3e306d70-a43d-4bc7-9670-45f06bcfd326
-MongoDB connected.
